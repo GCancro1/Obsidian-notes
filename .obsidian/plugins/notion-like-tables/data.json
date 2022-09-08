@@ -1,0 +1,227 @@
+{
+  "appData": {},
+  "state": {
+    "2022 Notes/BMGT340/Class notes/Chapter 1/2022-09-01.md": {
+      "0": {
+        "data": {
+          "headers": [
+            {
+              "id": "cdf74cd4-8559-4ad1-96cb-a9f76679848f",
+              "content": "Type",
+              "sortDir": "default",
+              "width": "100px",
+              "shouldWrapOverflow": true,
+              "useAutoWidth": false,
+              "type": "text"
+            },
+            {
+              "id": "96d5381f-16d5-409e-a59a-478a1b6fe1d9",
+              "content": "Advantages",
+              "sortDir": "default",
+              "width": "100px",
+              "shouldWrapOverflow": true,
+              "useAutoWidth": false,
+              "type": "text"
+            },
+            {
+              "id": "1a95cbf7-4917-4c3c-9185-ca135c718852",
+              "content": "Disadvantages",
+              "sortDir": "default",
+              "width": "307px",
+              "shouldWrapOverflow": true,
+              "useAutoWidth": false,
+              "type": "text"
+            },
+            {
+              "id": "2c24f33c-60f9-417b-96af-6db4c0c3a77a",
+              "content": "",
+              "sortDir": "default",
+              "width": "100px",
+              "shouldWrapOverflow": true,
+              "useAutoWidth": false,
+              "type": "text"
+            }
+          ],
+          "rows": [
+            {
+              "id": "f645faee-8135-4679-8b82-97a311651965",
+              "initialIndex": 0,
+              "creationTime": 1662045891929
+            },
+            {
+              "id": "e1e142cf-a502-4446-8ccd-c8994b022d44",
+              "initialIndex": 1,
+              "creationTime": 1662045916203
+            },
+            {
+              "id": "48c2bcc2-fb06-4566-ac91-7ed3a897725d",
+              "initialIndex": 2,
+              "creationTime": 1662045891958
+            },
+            {
+              "id": "87090db2-0607-4390-8302-911c901a4ae3",
+              "initialIndex": 3,
+              "creationTime": 1662045892047
+            },
+            {
+              "id": "14d85b77-5fb0-49b9-9861-e46dcb30438b",
+              "initialIndex": 4,
+              "creationTime": 1662045892277
+            }
+          ],
+          "cells": [
+            {
+              "id": "7d3172d7-f97b-499f-b1af-bbef357e4d9c",
+              "rowId": "f645faee-8135-4679-8b82-97a311651965",
+              "headerId": "cdf74cd4-8559-4ad1-96cb-a9f76679848f",
+              "type": "text",
+              "text": "Partnership"
+            },
+            {
+              "id": "c7446942-3386-4b8a-9a05-fb11ed1cf4f8",
+              "rowId": "f645faee-8135-4679-8b82-97a311651965",
+              "headerId": "96d5381f-16d5-409e-a59a-478a1b6fe1d9",
+              "type": "text",
+              "text": ""
+            },
+            {
+              "id": "584b709f-9f09-430c-9b8a-22913a5056dc",
+              "rowId": "f645faee-8135-4679-8b82-97a311651965",
+              "headerId": "1a95cbf7-4917-4c3c-9185-ca135c718852",
+              "type": "text",
+              "text": "unlimited liability, transfer of ownership"
+            },
+            {
+              "id": "b771a127-6646-4dcb-91df-1f07d0506118",
+              "rowId": "f645faee-8135-4679-8b82-97a311651965",
+              "headerId": "2c24f33c-60f9-417b-96af-6db4c0c3a77a",
+              "type": "text",
+              "text": ""
+            },
+            {
+              "id": "f3858649-9e95-4feb-8929-9ce274c0cfcd",
+              "rowId": "e1e142cf-a502-4446-8ccd-c8994b022d44",
+              "headerId": "cdf74cd4-8559-4ad1-96cb-a9f76679848f",
+              "type": "text",
+              "text": "Limited partnership"
+            },
+            {
+              "id": "14c9acb2-8d40-428a-84f5-220f38f59aee",
+              "rowId": "e1e142cf-a502-4446-8ccd-c8994b022d44",
+              "headerId": "96d5381f-16d5-409e-a59a-478a1b6fe1d9",
+              "type": "text",
+              "text": "limited liability"
+            },
+            {
+              "id": "7fafd672-8bb6-4bab-89dc-33f4e772bd99",
+              "rowId": "e1e142cf-a502-4446-8ccd-c8994b022d44",
+              "headerId": "1a95cbf7-4917-4c3c-9185-ca135c718852",
+              "type": "text",
+              "text": "general partners have unlimited liability, Limited partners cannot run the firm"
+            },
+            {
+              "id": "dde8175b-05f3-4008-b623-7f91d1318da4",
+              "rowId": "e1e142cf-a502-4446-8ccd-c8994b022d44",
+              "headerId": "2c24f33c-60f9-417b-96af-6db4c0c3a77a",
+              "type": "text",
+              "text": ""
+            },
+            {
+              "id": "0f436517-b1bb-4f8d-bc61-eda29a42f067",
+              "rowId": "48c2bcc2-fb06-4566-ac91-7ed3a897725d",
+              "headerId": "cdf74cd4-8559-4ad1-96cb-a9f76679848f",
+              "type": "text",
+              "text": "LLC"
+            },
+            {
+              "id": "8db67517-555f-4094-912a-babbe2038dc3",
+              "rowId": "48c2bcc2-fb06-4566-ac91-7ed3a897725d",
+              "headerId": "96d5381f-16d5-409e-a59a-478a1b6fe1d9",
+              "type": "text",
+              "text": "limited liability"
+            },
+            {
+              "id": "d370e59f-0797-4aa7-912c-9b07a0c14e20",
+              "rowId": "48c2bcc2-fb06-4566-ac91-7ed3a897725d",
+              "headerId": "1a95cbf7-4917-4c3c-9185-ca135c718852",
+              "type": "text",
+              "text": ""
+            },
+            {
+              "id": "ed01264d-ee75-4b36-98d3-dfb003b8a2b8",
+              "rowId": "48c2bcc2-fb06-4566-ac91-7ed3a897725d",
+              "headerId": "2c24f33c-60f9-417b-96af-6db4c0c3a77a",
+              "type": "text",
+              "text": ""
+            },
+            {
+              "id": "c2589d29-161c-4bd5-a553-16e9e5cfadd6",
+              "rowId": "87090db2-0607-4390-8302-911c901a4ae3",
+              "headerId": "cdf74cd4-8559-4ad1-96cb-a9f76679848f",
+              "type": "text",
+              "text": "C - Corporation"
+            },
+            {
+              "id": "796578d8-8b6d-4e53-8a3b-ab528bd05818",
+              "rowId": "87090db2-0607-4390-8302-911c901a4ae3",
+              "headerId": "96d5381f-16d5-409e-a59a-478a1b6fe1d9",
+              "type": "text",
+              "text": "limited liability, unlimited life, raising capital, transfer of ownership, public or private"
+            },
+            {
+              "id": "b612bf51-f177-47d6-be41-c6e607828d74",
+              "rowId": "87090db2-0607-4390-8302-911c901a4ae3",
+              "headerId": "1a95cbf7-4917-4c3c-9185-ca135c718852",
+              "type": "text",
+              "text": "double taxation"
+            },
+            {
+              "id": "51f3cad2-5906-4b00-8aec-12c280eeb520",
+              "rowId": "87090db2-0607-4390-8302-911c901a4ae3",
+              "headerId": "2c24f33c-60f9-417b-96af-6db4c0c3a77a",
+              "type": "text",
+              "text": ""
+            },
+            {
+              "id": "5c95e186-a5b0-40eb-847d-7e16b85c20c9",
+              "rowId": "14d85b77-5fb0-49b9-9861-e46dcb30438b",
+              "headerId": "cdf74cd4-8559-4ad1-96cb-a9f76679848f",
+              "type": "text",
+              "text": "S - Corporation"
+            },
+            {
+              "id": "e9042cd6-bc3c-4597-8878-e947a625aac0",
+              "rowId": "14d85b77-5fb0-49b9-9861-e46dcb30438b",
+              "headerId": "96d5381f-16d5-409e-a59a-478a1b6fe1d9",
+              "type": "text",
+              "text": "limited liability"
+            },
+            {
+              "id": "09c71fe5-2057-4364-97fd-f4798697d79d",
+              "rowId": "14d85b77-5fb0-49b9-9861-e46dcb30438b",
+              "headerId": "1a95cbf7-4917-4c3c-9185-ca135c718852",
+              "type": "text",
+              "text": "no retained earnings, less than 100, domestic, individual owners"
+            },
+            {
+              "id": "bbe5cd42-b2d6-4939-a1ee-6cf03b5b5b6c",
+              "rowId": "14d85b77-5fb0-49b9-9861-e46dcb30438b",
+              "headerId": "2c24f33c-60f9-417b-96af-6db4c0c3a77a",
+              "type": "text",
+              "text": ""
+            }
+          ],
+          "tags": []
+        },
+        "viewType": "live-preview",
+        "shouldUpdate": true,
+        "tableCacheVersion": 425
+      }
+    }
+  },
+  "focusedElement": {
+    "id": "-1",
+    "type": "unfocused"
+  },
+  "excludedFiles": []
+}
