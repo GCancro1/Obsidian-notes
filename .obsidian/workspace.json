@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "6378f140b6e2a334",
+    "type": "split",
+    "children": [
+      {
+        "id": "ddd68a1221b548a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f25cfeab6dfa3bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2022 Notes/BMGT301/Exam 1 material.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "44320cafc34b585f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4a4f27d5b67aea40",
+    "type": "split",
+    "children": [
+      {
+        "id": "684adaedf67b1185",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81dc92cd5ff8111f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6b76cc831debcb22",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "13e21387a881fe29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dc6892c0e967189c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 145.5036334991455
+  },
+  "right": {
+    "id": "b8445fbb8c6e04f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e134b5a083bdcb9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "efc1efda6da8c270",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2022 Notes/BMGT301/Exam 1 material.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d6b57cff6892e811",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2022 Notes/BMGT301/Exam 1 material.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c6a1bb5e53bda71b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "44637a479a040525",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2022 Notes/BMGT301/Exam 1 material.md"
+              }
+            }
+          },
+          {
+            "id": "63a2665547272ba2",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 372.1666259765625,
+    "collapsed": true
+  },
+  "active": "44320cafc34b585f",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "2022 Notes/BMGT301/Exam 1 material.md",
+    "2022 Notes/CMSC420/2022-09-06.md",
+    "2022 Notes/BMGT340/Class notes/Chapter 1/2022-09-08.md",
+    "2022 Notes/BMGT340/Class notes/Chapter 1/2022-08-30.md",
+    "2022 Notes/BMGT340/Class notes/Chapter 3/2022-09-13.md",
+    "2022 Notes/BMGT340/Textbook notes/Chapter 1.md",
+    "2022 Notes/CMSC420/2022-09-13.md",
+    "2022 Notes/CMSC420/2022-09-08.md",
+    "2022 Notes/BMGT340/Textbook notes/Chapter 3.md"
+  ]
+}
